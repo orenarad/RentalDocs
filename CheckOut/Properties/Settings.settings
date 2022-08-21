@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EquipmentCheckOut.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="Size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="Maximised" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CameraConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=MOVIE\SQLEXPRESS;Initial Catalog=Camera;Persist Security Info=True;User ID=CheckoutUser;Password=I32B2XFw&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=MOVIE\SQLEXPRESS;Initial Catalog=Camera;Persist Security Info=True;User ID=CheckoutUser;Password=I32B2XFw</Value>
+    </Setting>
+    <Setting Name="DocLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="DocSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="DocMaximised" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MsgNoPermission" Type="System.String" Scope="User">
+      <Value Profile="(Default)">אין לך את ההרשאה הדרושה לפעולה זו</Value>
+    </Setting>
+    <Setting Name="MsgCantProceed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">לא ניתן להשלים פעולה</Value>
+    </Setting>
+    <Setting Name="TITLE_QUOTE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">הצעת מחיר</Value>
+    </Setting>
+    <Setting Name="TITLE_SHIPMENT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">תעודת השכרה</Value>
+    </Setting>
+    <Setting Name="TITLE_RECEIVE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">תעודת החזרה</Value>
+    </Setting>
+    <Setting Name="TITLE_BILL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">חשבון השכרה</Value>
+    </Setting>
+    <Setting Name="DOC_ORIGINAL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">מקור</Value>
+    </Setting>
+    <Setting Name="DOC_COPY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">העתק</Value>
+    </Setting>
+    <Setting Name="MsgCantSaveEmpty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">לא ניתן לשמור שדה זה ריק</Value>
+    </Setting>
+    <Setting Name="MsgOnlyNumeric" Type="System.String" Scope="User">
+      <Value Profile="(Default)">חייב ערך מספרי</Value>
+    </Setting>
+    <Setting Name="VAT" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0.17</Value>
+    </Setting>
+    <Setting Name="DATE2_QUOTE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">בתוקף עד:</Value>
+    </Setting>
+    <Setting Name="DATE2_SHIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">לחיוב מ:</Value>
+    </Setting>
+    <Setting Name="DATE2_RECEIVE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">לחיוב עד:</Value>
+    </Setting>
+    <Setting Name="MsgSaveChanges" Type="System.String" Scope="User">
+      <Value Profile="(Default)">האם לשמור שינויים?</Value>
+    </Setting>
+    <Setting Name="MsgBeforeClosing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">לפני סגירה</Value>
+    </Setting>
+    <Setting Name="DOC_DRAFT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">טיוטה</Value>
+    </Setting>
+    <Setting Name="MsgNotSaved" Type="System.String" Scope="User">
+      <Value Profile="(Default)">יש לשמור את המסמך לפני יצוא. האם לשמור?</Value>
+    </Setting>
+    <Setting Name="MsgMissingField" Type="System.String" Scope="User">
+      <Value Profile="(Default)">יש להשלים שדות נדרשים</Value>
+    </Setting>
+    <Setting Name="CurrentVersion" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">4.6</Value>
+    </Setting>
+    <Setting Name="MsgBadVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">גרסת תוכנה זו אינה האחרונה, נא להשתמש בגרסא</Value>
+    </Setting>
+    <Setting Name="MsgNoProject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">יש לבחור פרוייקט קודם</Value>
+    </Setting>
+    <Setting Name="MsgItemsReturned" Type="System.String" Scope="User">
+      <Value Profile="(Default)">פריטים במסמך הוסרו מפני שכבר זוכו</Value>
+    </Setting>
+    <Setting Name="MsgMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">הודעה</Value>
+    </Setting>
+    <Setting Name="MsgItemsQttyChange" Type="System.String" Scope="User">
+      <Value Profile="(Default)">כמות הפריטים במסמך זה השתנו מפני שחלקם כבר זוכו</Value>
+    </Setting>
+    <Setting Name="MsgError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">טעות</Value>
+    </Setting>
+    <Setting Name="MsgValueHigherThanZero" Type="System.String" Scope="User">
+      <Value Profile="(Default)">חייב ערך גבוה מ-0</Value>
+    </Setting>
+    <Setting Name="MsgMustBeNum" Type="System.String" Scope="User">
+      <Value Profile="(Default)">חייב ערך מספרי שלם</Value>
+    </Setting>
+    <Setting Name="MsgNoItem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">יש לבחור פריט קיים מהקטלוג</Value>
+    </Setting>
+    <Setting Name="MsgEndOfDoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">הגעת לסוף המסמך</Value>
+    </Setting>
+    <Setting Name="MsgFindInDoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">מציאת פריט</Value>
+    </Setting>
+    <Setting Name="PathLetterHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(none)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

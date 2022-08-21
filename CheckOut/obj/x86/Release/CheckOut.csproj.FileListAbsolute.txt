@@ -1,0 +1,94 @@
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\EquipmentCheckOut.CPrintManifest.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCase.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCategory.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCatSelector.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\EquipmentCheckOut.frmFindCase.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmFindItem.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmItem.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmItemDup.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmJob.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmJobs.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmJobSelector.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmMovement.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmOptions.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.frmWiz.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\CheckOut.Properties.Resources.resources
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\oren\AppData\Local\Temporary Projects\CheckOut\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.CPrintManifest.resources
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCase.resources
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCategory.resources
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCatSelector.resources
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmFindCase.resources
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\CheckOut.Properties.Resources.resources
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\bin\Release\CheckOut.exe
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\bin\Release\CheckOut.pdb
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\CheckOut.exe
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\CheckOut.pdb
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmFindItem.resources
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmItem.resources
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmItemDup.resources
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmJob.resources
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmJobs.resources
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmJobSelector.resources
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmMovement.resources
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmOptions.resources
+C:\Users\oren\Documents\Visual Studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\EquipmentCheckOut.frmWiz.resources
+C:\Users\oren\documents\visual studio 2010\Projects\CheckOut\CheckOut\obj\x86\Release\CheckOut.csproj.GenerateResource.Cache
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\CheckOut.csprojResolveAssemblyReference.cache
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\CheckOut.csproj.ResolveComReference.cache
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.CPrintDocument.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.CPrintManifest.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.ctlAdmin.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.ctlCheckOut.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.ctlDocuments.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.ctlProjects.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.ctlClients.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.ctlCatalog.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.ctlUIPanel.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.DocumentEditor.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.DocumentRow.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCase.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmDocumentsSearch2.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmExportSelection.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmFolders.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmDocumentsSearch.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCatalogSearch.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmChechOut.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCheckOutItem.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmProject.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmClient.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCatalogProduct.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCategory.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmCatSelector.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmDocument.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmFindCase.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmFindItem.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmItem.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmItemDup.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmJob.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmJobs.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmJobSelector.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmMovement.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmOptions.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmUser.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmUserColor.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.frmWiz.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.mainUi.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.PimpedListBox.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.Properties.Resources.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\EquipmentCheckOut.mainUi.he-IL.resources
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\CheckOut.csproj.GenerateResource.Cache
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\he-IL\CheckOut.resources.dll
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\CheckOut.TrustInfo.xml
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\CheckOut.exe
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\CheckOut.pdb
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\bin\Release\CheckOut.exe.config
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\bin\Release\CheckOut.exe.manifest
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\bin\Release\CheckOut.application
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\bin\Release\CheckOut.exe
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\bin\Release\CheckOut.pdb
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\bin\Release\he-IL\CheckOut.resources.dll
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\CheckOut.exe.manifest
+\\MOVIE\Movie\תוכנה\Our Apps\Docs Source\CheckOutAc\CheckOut\obj\x86\Release\CheckOut.application
